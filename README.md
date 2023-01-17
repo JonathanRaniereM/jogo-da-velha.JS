@@ -21,7 +21,7 @@ Projeto de Jogo da Velha simples desenvolvido apenas para aplicação de conheci
 
 Você pode criar uma pasta em sua máquina e, dentro dela, clicar com botão direito e apertar 'GIT BASH HERE'. Com seu GIT aberto digite o seguinte código:
 
-<code>git clone </code>
+<code>git clone https://github.com/JonathanRaniereM/jogo-da-velha.JS.git </code>
 
 Pronto. Você terá a pasta deste projeto dentro da sua pasta criada. Agora é só abrir o arquivo index.html com o navegador e jogar.
 
