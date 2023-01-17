@@ -1,4 +1,11 @@
-![image](https://user-images.githubusercontent.com/94343486/212884913-cdeb0807-aec8-49a8-aab4-e72c16851091.png)
+<h1 align="center">Jogo da Velha JS</h1>
+
+<div align="center">
+    <img width="260" src="https://user-images.githubusercontent.com/94343486/212884913-cdeb0807-aec8-49a8-aab4-e72c16851091.png">
+</div>
+
+<hr>
+
 
 
 
